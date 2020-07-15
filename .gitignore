@@ -1,0 +1,10 @@
+
+*.json
+Checkpoint/checkpoint
+*.DESKTOP-TMUKMCE
+*.data-00000-of-00001
+*.index
+*.meta
+*.png
+*.pyc
+*.csv
